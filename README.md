@@ -1,1 +1,1 @@
-# Ph-n-m-m-Qu-n-l-C-a-h-ng-h-c-sinh
+# Phần mềm quản lí bán đồ học sinh
